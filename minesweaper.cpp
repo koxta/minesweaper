@@ -40,6 +40,8 @@ int main() {
     fillBoardWithZero();
     //printBoard();
 
+
+    // this should be a function
     unsigned long j;
 
     srand( (unsigned)time(NULL) );
